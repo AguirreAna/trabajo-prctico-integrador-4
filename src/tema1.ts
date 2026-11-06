@@ -26,3 +26,4 @@ console.log("=================================");
 console.log("¿cual es su version actual?");
 console.log("=================================");
 console.log("TypeScript 7 (julio 2026, rescrito en Go)");
+
